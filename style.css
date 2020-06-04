@@ -1,0 +1,45 @@
+body {
+  font-family: 'Varela Round', sans-serif;
+
+
+
+}
+
+#game div {
+  background-color: white;
+  box-shadow: inset 0px 0px 20px 20px black;
+  width: 15%;
+  height: 200px;
+  margin: 10px;
+  display: inline-block;
+  border-radius: 30%;
+  font-family: 'Varela Round', sans-serif;
+
+
+}
+
+#start-btn {
+  font-family: 'Varela Round', sans-serif;
+  font-weight: bolder;
+  margin: 10px;
+  padding: 20px;
+  border-radius: 20px;
+  font-size: 1rem;
+
+
+}
+
+#restart-btn {
+  font-family: 'Varela Round', sans-serif;
+  font-weight: bolder;
+  margin: 10px;
+  padding: 20px;
+  border-radius: 20px;
+  font-size: 1rem;
+
+
+}
+
+.moves {
+  font-family: 'Varela Round', sans-serif;
+}
